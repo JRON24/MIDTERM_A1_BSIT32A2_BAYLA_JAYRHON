@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SlotMachineBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0fb7f4d8afb34cb56a292265867bed3934d7a4c")]
 [assembly: System.Reflection.AssemblyProductAttribute("SlotMachineBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SlotMachineBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

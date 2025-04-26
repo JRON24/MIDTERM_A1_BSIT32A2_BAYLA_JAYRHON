@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tQ2Uq/Tiu1Q=",
+  "dgSpecHash": "HaIogbsDE9U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\STUDENT\\Downloads\\MIDTERM_A1_BSIT32A3_BAYLA_JAYRHON\\SlotMachineBackend\\SlotMachineBackend\\SlotMachineBackend.csproj",
+  "projectFilePath": "C:\\Users\\STUDENT\\Downloads\\Sample12\\MIDTERM_A1_BSIT32A2_BAYLA_JAYRHON\\SlotMachineBackend\\SlotMachineBackend\\SlotMachineBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\STUDENT\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\STUDENT\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

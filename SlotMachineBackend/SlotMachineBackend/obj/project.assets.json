@@ -7407,11 +7407,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\STUDENT\\Downloads\\MIDTERM_A1_BSIT32A3_BAYLA_JAYRHON\\SlotMachineBackend\\SlotMachineBackend\\SlotMachineBackend.csproj",
+      "projectUniqueName": "C:\\Users\\STUDENT\\Downloads\\Sample12\\MIDTERM_A1_BSIT32A2_BAYLA_JAYRHON\\SlotMachineBackend\\SlotMachineBackend\\SlotMachineBackend.csproj",
       "projectName": "SlotMachineBackend",
-      "projectPath": "C:\\Users\\STUDENT\\Downloads\\MIDTERM_A1_BSIT32A3_BAYLA_JAYRHON\\SlotMachineBackend\\SlotMachineBackend\\SlotMachineBackend.csproj",
+      "projectPath": "C:\\Users\\STUDENT\\Downloads\\Sample12\\MIDTERM_A1_BSIT32A2_BAYLA_JAYRHON\\SlotMachineBackend\\SlotMachineBackend\\SlotMachineBackend.csproj",
       "packagesPath": "C:\\Users\\STUDENT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\STUDENT\\Downloads\\MIDTERM_A1_BSIT32A3_BAYLA_JAYRHON\\SlotMachineBackend\\SlotMachineBackend\\obj\\",
+      "outputPath": "C:\\Users\\STUDENT\\Downloads\\Sample12\\MIDTERM_A1_BSIT32A2_BAYLA_JAYRHON\\SlotMachineBackend\\SlotMachineBackend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\STUDENT\\AppData\\Roaming\\NuGet\\NuGet.Config",
